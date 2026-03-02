@@ -1,1 +1,2 @@
-https://crypto-volatility-visualizer-egdghji56k62eejdvnm2jo.streamlit.app/
+ **Crypto Volatility Visualizer**
+https://cryptovolatilityvisualizerfa2-ffqffmayhhrvqhrbg5n4kg.streamlit.app/
