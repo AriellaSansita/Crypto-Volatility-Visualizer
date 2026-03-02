@@ -1,3 +1,3 @@
 # Crypto Volatility Visualizer
  
-https://cryptovolatilityvisualizerfa2-ffqffmayhhrvqhrbg5n4kg.streamlit.app/
+https://crypto-volatility-visualizer-dmzbn3z2jbjbrjsg9k5sef.streamlit.app/
